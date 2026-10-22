@@ -314,4 +314,4 @@ Star the repo if it made a draft better, and it'll be waiting when the next one 
 
 Used it? Say how it went. That feedback shapes what gets tested next.
 
-**[Join the newsletter: see which model wins the next blind test →](https://withpt.ai/resources/writing-craft#newsletter)**
+**[Join the newsletter: see which model wins the next blind test →](https://withpt.ai/resources/writing-craft?utm_source=github&utm_medium=readme&utm_campaign=writing-craft#newsletter)**
